@@ -1,0 +1,5 @@
+(move robot1 wp1 wp2)
+(move robot1 wp2 wp3)
+(move robot1 wp3 wp4)
+(move robot1 wp4 wp5)
+; cost = 4 (unit cost)
